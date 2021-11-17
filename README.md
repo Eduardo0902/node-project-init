@@ -1,2 +1,3 @@
 # node-project-init
-Basic structure to init a node project
+
+#### Includes Babel, Prettier, EditorConfig and ESLint basic configurations
